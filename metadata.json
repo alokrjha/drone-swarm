@@ -1,0 +1,5 @@
+{
+  "name": "SwarmCommander AI",
+  "description": "Advanced drone swarm control interface simulating ArduPilot/Gazebo integration with AI-powered mission analysis.",
+  "requestFramePermissions": []
+}
